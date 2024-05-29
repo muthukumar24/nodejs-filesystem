@@ -1,0 +1,10 @@
+Render URL: https://guvi-nodejs-day-1-task.onrender.com
+
+Method: POST
+Postman API Endpoint - 1: https://guvi-nodejs-day-1-task.onrender.com/createFile
+
+Method: GET
+Postman API Endpoint - 2: https://guvi-nodejs-day-1-task.onrender.com/getFiles
+
+GitHub Repository Link: https://github.com/muthukumar24/Guvi-NodeJS-Day-1-Task.git
+

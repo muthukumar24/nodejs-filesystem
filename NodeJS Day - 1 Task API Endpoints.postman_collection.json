@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "cc725102-b3f3-48e7-9bbf-3e3ec3bb05d8",
+		"name": "NodeJS Day - 1 Task API Endpoints",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "35282550"
+	},
+	"item": [
+		{
+			"name": "Create File Endpoint",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://guvi-nodejs-day-1-task.onrender.com/createFile",
+					"protocol": "https",
+					"host": [
+						"guvi-nodejs-day-1-task",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"createFile"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve Files Endpoint",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://guvi-nodejs-day-1-task.onrender.com/getFiles",
+					"protocol": "https",
+					"host": [
+						"guvi-nodejs-day-1-task",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"getFiles"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
